@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Diya 😄
+## I'm Diya 😄
 [![linkedin badge](https://img.shields.io/badge/diyajaiswal11-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/diyajaiswal11)
 [![twitter badge](https://img.shields.io/badge/@diyajaiswal11-30302f?style=flat&logo=twitter)](https://twitter.com/diyajaiswal_11)
 </br>
