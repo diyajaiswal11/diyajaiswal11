@@ -4,7 +4,7 @@
 [![linkedin badge](https://img.shields.io/badge/diyajaiswal11-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/diyajaiswal11)
 [![twitter badge](https://img.shields.io/badge/@diyajaiswal_11-30302f?style=flat&logo=twitter)](https://twitter.com/diyajaiswal_11)
 [![Gmail Badge](https://img.shields.io/badge/shubhijaiswal2000@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:shubhijaiswal2000@gmail.com)
-![Visitor](https://visitor-badge.glitch.me/badge?page_id=diyajaiswal11.diyajaiswal11)
+
 </br>
 
 #### I am a 2nd year undergraduate from JSSATE, Noida. I have been into Competitive Programming since a year now and currently I'm learning Web Development through Django. 💻
