@@ -5,7 +5,7 @@
 [![twitter badge](https://img.shields.io/badge/@diyajaiswal_11-30302f?style=flat&logo=twitter)](https://twitter.com/diyajaiswal_11)
 [![Gmail Badge](https://img.shields.io/badge/shubhijaiswal2000@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:shubhijaiswal2000@gmail.com)
 
-#### I am a 2nd year undergraduate from JSSATE, Noida. I have been into Competitive Programming since a year now and currently I'm learning Web Development through Django. 💻
+#### I am a 3rd year undergraduate from JSSATE, Noida. I have been into Competitive Programming since a year now and currently I'm learning Web Development through Django. 💻
 
 - 🔭 I’m currently working on personal projects.
 - 👯 I’d really like to collaborate on Django based projects.
