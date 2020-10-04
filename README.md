@@ -19,13 +19,13 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=diyajaiswal11&show_icons=true&hide_border=false"/>
 
 
-<h2 align="center" >Connect with me</h2>
+<h2 align="center" >Let's Connect ☺️</h2>
 <div align="center">
-<a href="https://twitter.com/diyajaiswal_11" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.linkedin.com/in/diyajaiswal11/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/diyajaiswal_11" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:shubhijaiswal2000@gmail.com/?hl=en" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=red alt=instagram style="margin-bottom: 5px;" />
