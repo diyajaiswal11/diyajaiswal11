@@ -5,7 +5,7 @@
 [![twitter badge](https://img.shields.io/badge/@diyajaiswal_11-30302f?style=flat&logo=twitter)](https://twitter.com/diyajaiswal_11)
 [![Gmail Badge](https://img.shields.io/badge/shubhijaiswal2000@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:shubhijaiswal2000@gmail.com)
 -->
-I am a 3rd year Computer Science student from JSS Academy of Technical Education, Noida. 
+I am a 3rd year **Computer Science** student from **JSS Academy of Technical Education, Noida**. 
 I am a **Backend Developer** in Django and a **Competitive Programmer** in Python and C++. 💻
 
 - 🔭 I’m currently interning as a **Web Developer** in an Organization. 
