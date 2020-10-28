@@ -8,7 +8,7 @@
 I am a 3rd year **Computer Science** student from **JSS Academy of Technical Education, Noida**. 
 I am a **Backend Developer** in Django and a **Competitive Programmer** in Python and C++. 💻
 
-- 🔭 I’m currently interning as a **Web Developer** in an Organization. 
+- 🔭 I’m currently interning as a **Backend Developer** in an Organization. 
 - 🌱 I’m currently learning **Frontend Web Development**.
 - 👯 I’d really like to collaborate on **Django** based projects.
 - 🤔 I’m looking for help with **Data Structures and Algorithms**.
@@ -24,6 +24,7 @@ I am a **Backend Developer** in Django and a **Competitive Programmer** in Pytho
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
+<img src="https://cms-assets.tutsplus.com/uploads/users/45/posts/19786/preview_image/django-rest-framework-wide-retina-preview.gif" alt="djangorestframework" width="60" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
