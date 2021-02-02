@@ -32,7 +32,7 @@ I'm a **Backend Developer** in Django and a **Competitive Programmer** in Python
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/c-plusplus.svg" alt="cplusplus" width="40" height="40"/> 
 </p>
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=diyajaiswal11&show_icons=true&hide_border=false"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=diyajaiswal11&show_icons=true&hide_border=false&theme=dark"/>
 <h2 align="center" >Let's Connect 😃</h2>
 <div align="center">
 <a href="https://www.linkedin.com/in/diyajaiswal11/" target="_blank">
