@@ -1,10 +1,9 @@
 <h1>Hey there, I'm <a  href="https://github.com/diyajaiswal11/">Diya </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<!--
 [![linkedin badge](https://img.shields.io/badge/diyajaiswal11-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/diyajaiswal11)
 [![twitter badge](https://img.shields.io/badge/@diyajaiswal_11-30302f?style=flat&logo=twitter)](https://twitter.com/diyajaiswal_11)
 [![Gmail Badge](https://img.shields.io/badge/shubhijaiswal2000@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:shubhijaiswal2000@gmail.com)
--->
+
 I'm a 3rd year **Computer Science** student from **JSS Academy of Technical Education, Noida**. 🏫 <br> 
 I'm a **Backend Developer** in Django and a **Competitive Programmer** in Python and C++. 💻
 <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
@@ -47,7 +46,14 @@ I'm a **Backend Developer** in Django and a **Competitive Programmer** in Python
 -->
 </p>
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=diyajaiswal11&show_icons=true&hide_border=false&&theme=radical"/>
+
+<hr>
+
+|<img src="https://github-readme-stats.vercel.app/api?username=diyajaiswal11&show_icons=true&hide_border=false&&theme=radical&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=diyajaiswal11&theme=radical"/>|
+|---|---|
+
+<!--
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=diyajaiswal11&show_icons=true&hide_border=false&&theme=radical&count_private=true"/>
 <h2 align="center" >Let's Connect <img src="https://irp-cdn.multiscreensite.com/4768b30f/dms3rep/multi/8.gif" width="50" style="margin-top:30px"></h2>
 <div align="center">
 <a href="https://www.linkedin.com/in/diyajaiswal11/" target="_blank">
@@ -60,4 +66,5 @@ I'm a **Backend Developer** in Django and a **Competitive Programmer** in Python
 <img src=https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=red alt=gmail style="margin-bottom: 5px;" />
 </a> 
 </div>  
+-->
 
