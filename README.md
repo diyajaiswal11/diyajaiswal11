@@ -30,6 +30,7 @@ I'm a **Backend Developer** in Django and a **Competitive Programmer** in Python
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
  </p>
 <hr>
+
 |<img src="https://github-readme-stats.vercel.app/api?username=diyajaiswal11&show_icons=true&hide_border=false&&theme=radical&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=diyajaiswal11&theme=radical"/>|
 |---|---|
 
