@@ -9,7 +9,6 @@ I'm a 3rd year **Computer Science** student from **JSS Academy of Technical Educ
 I'm a **Backend Developer** in Django and a **Competitive Programmer** in Python and C++. 💻
 <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
 
-- 🔭 I’m currently interning as a **Backend Developer**. 
 - 🌱 I’m currently focusing on **Frontend Web Development** and **Data Structures and Algorithms**.
 - 👯 I’d really like to collaborate on **Django** based projects.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
