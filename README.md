@@ -5,9 +5,11 @@
 [![Gmail Badge](https://img.shields.io/badge/shubhijaiswal2000@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:shubhijaiswal2000@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=diyajaiswal11&style=plastic" />
 
-I'm a final year **Computer Science** student from **JSS Academy of Technical Education, Noida**. 🏫 <br> 
-I'm a **Backend Developer** in Django and a **DSA enthusiast**. 💻
+I'm currently working as **SDE at Urban Company**. <br>
+I've graduated from **JSS Academy of Technical Education, Noida** as **Computer Science Engineer** in 2022. 
+<br>
 
+<!-- 
 <h2 align="left">Tech Stack</h2>
 <p align="left">
  <img src="https://img.shields.io/badge/HTML-FF4500?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -23,24 +25,6 @@ I'm a **Backend Developer** in Django and a **DSA enthusiast**. 💻
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgres-0B96B2?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
- </p>
+ </p> -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=diyajaiswal11&&show_icons=true&&hide_border=false&&theme=radical&&count_private=true"/>
-
-
-<!--
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=diyajaiswal11&show_icons=true&hide_border=false&&theme=radical&count_private=true"/>
-<h2 align="center" >Let's Connect <img src="https://irp-cdn.multiscreensite.com/4768b30f/dms3rep/multi/8.gif" width="50" style="margin-top:30px"></h2>
-<div align="center">
-<a href="https://www.linkedin.com/in/diyajaiswal11/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/diyajaiswal_11" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:shubhijaiswal2000@gmail.com/?hl=en" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=red alt=gmail style="margin-bottom: 5px;" />
-</a> 
-</div>  
--->
-
