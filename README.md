@@ -5,14 +5,8 @@
 [![Gmail Badge](https://img.shields.io/badge/shubhijaiswal2000@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:shubhijaiswal2000@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=diyajaiswal11&style=plastic" />
 
-I'm a 3rd year **Computer Science** student from **JSS Academy of Technical Education, Noida**. 🏫 <br> 
-I'm a **Backend Developer** in Django and a **Competitive Programmer** in Python and C++. 💻
-<img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
-
-- 🌱 I’m currently focusing on **Frontend Web Development** and **Data Structures and Algorithms**.
-- 👯 I’d really like to collaborate on **Django** based projects.
-- 💬 I’m looking forward to contribute to **Open Source Projects**.
-- ⚡ Fun fact: In my free time, you'll find me sketching or scrolling through Twitter.
+I'm a final year **Computer Science** student from **JSS Academy of Technical Education, Noida**. 🏫 <br> 
+I'm a **Backend Developer** in Django and a **DSA enthusiast**. 💻
 
 <h2 align="left">Tech Stack</h2>
 <p align="left">
@@ -31,8 +25,8 @@ I'm a **Backend Developer** in Django and a **Competitive Programmer** in Python
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
  </p>
 
-|<img src="https://github-readme-stats.vercel.app/api?username=diyajaiswal11&&show_icons=true&&hide_border=false&&theme=radical&&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=diyajaiswal11&&theme=radical&&hide_border=false&&show_icons=true"/>|
-|---|---|
+<img src="https://github-readme-stats.vercel.app/api?username=diyajaiswal11&&show_icons=true&&hide_border=false&&theme=radical&&count_private=true"/>
+
 
 <!--
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=diyajaiswal11&show_icons=true&hide_border=false&&theme=radical&count_private=true"/>
